@@ -4,7 +4,6 @@ title:  "Dotfiles Useful information"
 date:   2019-02-20 13:00:00 +0800
 categories: tutorials
 ---
-# Dotfiles Useful information
 ## Commands
 Find and replace with sed in directory and sub directories ignoring hidden directories and files in the root folder
 ```
