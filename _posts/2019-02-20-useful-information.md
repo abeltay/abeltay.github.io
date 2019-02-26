@@ -10,13 +10,6 @@ Find and replace with sed in directory and sub directories ignoring hidden direc
 find . -not -path './\.*' -type f -exec sed -i '' 's/apple/orange/g' {} \;
 ```
 
-## ZSH key bindings
-- ctrl-a = Beginning of line
-- ctrl-e = End of line
-- ctrl-w = Delete the previous word
-- alt-b = Move one word backward
-- alt-f = Move one word forward
-
 ## tmux Date/Time values in the status line
 $(echo $USER) - shows the current username
 %a --> Day of week (Mon)
@@ -41,7 +34,8 @@ $(echo $USER) - shows the current username
 
 For a more complete list view: https://linux.die.net/man/3/strftime
 
-## VIM short-forms
+## VIM
+### Short-forms
 - au = autocmd
 - et = expandtab
 - ft = filetype
@@ -50,6 +44,19 @@ For a more complete list view: https://linux.die.net/man/3/strftime
 - sw = shiftwidth
 - ts = tabstop
 - tw = textwidth
+
+### Pretty print JSON
+```
+:%!python -m json.tool
+```
+https://pascalprecht.github.io/posts/pretty-print-json-in-vim/
+
+## ZSH key bindings
+- ctrl-a = Beginning of line
+- ctrl-e = End of line
+- ctrl-w = Delete the previous word
+- alt-b = Move one word backward
+- alt-f = Move one word forward
 
 ## References
 - [vim-plug](https://github.com/junegunn/vim-plug)
