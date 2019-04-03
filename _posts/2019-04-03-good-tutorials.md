@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Good Tutorials"
-date:   2019-02-22 13:00:00 +0800
+date:   2019-04-03 13:00:00 +0800
 categories: tutorials
 ---
 ## Tutorials
@@ -17,3 +17,4 @@ categories: tutorials
 1. [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 1. [Rob Pike - 'Concurrency Is Not Parallelism'](https://youtu.be/cN_DpYBzKso)
 1. [dotGo 2015 - Rob Pike - Simplicity is Complicated](https://youtu.be/rFejpH_tAHM)
+1. [Awesome list - Go Security](https://github.com/guardrailsio/awesome-golang-security)
