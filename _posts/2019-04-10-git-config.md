@@ -15,7 +15,7 @@ In `.gitconfig`
 In `.gitconfig-personal`
 ```
 [user]
-  user = <name>
+	user = <name>
 	email = <email>
 ```
 
