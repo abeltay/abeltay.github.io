@@ -67,3 +67,4 @@ https://pascalprecht.github.io/posts/pretty-print-json-in-vim/
 - [A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 - [Spell Check in vim](http://thejakeharding.com/tutorial/2012/06/13/using-spell-check-in-vim.html)
 - [No Newline at End of File](https://thoughtbot.com/blog/no-newline-at-end-of-file)
+- [oh-my-zsh git shortcuts](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/git)
