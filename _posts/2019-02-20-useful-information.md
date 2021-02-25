@@ -45,17 +45,6 @@ For a more complete list view: https://linux.die.net/man/3/strftime
 - ts = tabstop
 - tw = textwidth
 
-### Pretty print JSON
-```
-:%!python -m json.tool
-```
-https://pascalprecht.github.io/posts/pretty-print-json-in-vim/
-
-### Convert the ^M linebreak to 'normal' linebreak in a file opened in vim
-`:e ++ff=dos` followed by `:set ff=unix` will convert the endings to a sane format
-
-Ref: https://stackoverflow.com/questions/811193/how-to-convert-the-m-linebreak-to-normal-linebreak-in-a-file-opened-in-vim
-
 ## ZSH key bindings
 - ctrl-a = Beginning of line
 - ctrl-e = End of line
