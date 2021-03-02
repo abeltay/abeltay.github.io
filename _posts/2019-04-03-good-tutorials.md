@@ -7,6 +7,7 @@ categories: tutorials
 ## Tutorials
 1. [Video - Mastering the Vim Language](https://youtu.be/wlR5gYd6um0)
 1. [Video - Implementing a code-review culture](https://youtu.be/PJjmw9TRB7s)
+1. [The 10 Commandments of Code Reviews](https://runnable.com/blog/the-10-commandments-of-code-reviews)
 1. [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 1. [5 Useful Tips for a better commit message](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
     - Related: [Sample Git Message from ThoughtBot](https://github.com/thoughtbot/dotfiles/blob/master/gitmessage)
